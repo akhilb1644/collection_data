@@ -1,0 +1,1 @@
+{'Fairhair': 1, 'Gorm': 6, 'Griffin': 1, 'Estridsen': 22, 'Palatinate-Neumarkt': 1, 'Bjelbo': 1}

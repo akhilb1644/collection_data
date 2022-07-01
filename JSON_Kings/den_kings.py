@@ -1,6 +1,6 @@
 import json
 
-kings = open('den_kings_1.json')
+kings = open('den_kings_1.json') # File only contains Danish rulers from around the year 936 to 1448(doesn't include legendary or semi-legendary kings like Cnut I)
 
 data = json.load(kings)
 dynasties = list(data.values())

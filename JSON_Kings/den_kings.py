@@ -14,4 +14,4 @@ for dynasty in dyns:
     count = len(dynasties) - len(dynasties_2)
     king_dyns[dynasty] = count
 
-print(king_dyns)
+print(king_dyns) # Result is in 'result.txt' in the 'JSON_Kings' folder

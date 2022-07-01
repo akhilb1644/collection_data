@@ -1,5 +1,10 @@
 import json
 
+"""
+The purpose of this program is to print the number of Danish monarchs that are a part of each dynasty(I'm too lazy to count) from the time mentioned below. As a lazy
+programmer, I decided that making a program was the way to go. So, here we are.
+"""
+
 kings = open('den_kings_1.json') # File only contains Danish rulers from around the year 936 to 1448(doesn't include legendary or semi-legendary kings like Cnut I)
 
 data = json.load(kings)

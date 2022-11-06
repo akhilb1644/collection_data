@@ -5,7 +5,7 @@ The purpose of this program is to print the number of Danish monarchs that are a
 programmer, I decided that making a program was the way to go. So, here we are.
 """
 
-kings = open('den_kings_1.json') # File only contains Danish rulers from around the year 936 to 1448(doesn't include legendary or semi-legendary kings like Cnut I)
+kings = open('den_kings.json') # File only contains Danish rulers from around the year 936 to 1448(doesn't include legendary or semi-legendary kings like Cnut I)
 
 data = json.load(kings)
 dynasties = list(data.values())

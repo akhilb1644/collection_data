@@ -38,3 +38,4 @@ sy.update_layout(
 sy.show()
 
 # If you want to see the result, it will be called "result.png"
+# and if you have a keen eye, you can see that I have forgotten Soqotra(or Socotra)
